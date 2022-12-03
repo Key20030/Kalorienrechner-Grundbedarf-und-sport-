@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Kalorienrechner_Grundbedarf_und_sport</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\49176\Documents\Kalorienrechner Grundbedarf und sport.sln eric.cs" Link="Kalorienrechner Grundbedarf und sport.sln eric.cs" />
+  </ItemGroup>
+
+</Project>
